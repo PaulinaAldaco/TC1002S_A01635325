@@ -9,7 +9,7 @@ Paulina Aldaco Romero
 A01635325
 
 ## EQUIPO
-Javier Humberto Gonzalez Garza - A01253836 
+Javier Humberto Gonzalez Garza - A01253836  
 Juan Pablo Montoya Estévez - A01251887
 
 ## LISTADO DE EJERCICIOS
