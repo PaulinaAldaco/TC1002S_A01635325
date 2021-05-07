@@ -13,4 +13,5 @@ Javier Humberto Gonzalez Garza - A01253836
 Juan Pablo Montoya Estévez - A01251887
 
 ## LISTADO DE EJERCICIOS
-* Lista de los ejercicios contenidos en el repositorio
+* Estadísticas descriptivas
+* Mapas de calor y boxplots
