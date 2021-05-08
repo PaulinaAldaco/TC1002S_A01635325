@@ -15,3 +15,4 @@ Juan Pablo Montoya Estévez - A01251887
 ## LISTADO DE EJERCICIOS
 * Estadísticas descriptivas
 * Mapas de calor y boxplots
+* KMeans
